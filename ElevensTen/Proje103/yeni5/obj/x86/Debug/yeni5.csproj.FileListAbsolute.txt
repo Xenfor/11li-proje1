@@ -1,8 +1,0 @@
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni5\yeni5\bin\Debug\yeni5.exe
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni5\yeni5\bin\Debug\yeni5.pdb
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni5\yeni5\obj\x86\Debug\yeni5.Form1.resources
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni5\yeni5\obj\x86\Debug\yeni5.Properties.Resources.resources
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni5\yeni5\obj\x86\Debug\yeni5.csproj.GenerateResource.Cache
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni5\yeni5\obj\x86\Debug\yeni5.exe
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni5\yeni5\obj\x86\Debug\yeni5.pdb
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni5\yeni5\obj\x86\Debug\yeni5.csprojResolveAssemblyReference.cache

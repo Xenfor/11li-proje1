@@ -1,7 +1,0 @@
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni2\yeni2\bin\Debug\yeni2.exe
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni2\yeni2\bin\Debug\yeni2.pdb
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni2\yeni2\obj\x86\Debug\yeni2.Properties.Resources.resources
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni2\yeni2\obj\x86\Debug\yeni2.csproj.GenerateResource.Cache
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni2\yeni2\obj\x86\Debug\yeni2.exe
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni2\yeni2\obj\x86\Debug\yeni2.pdb
-C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni2\yeni2\obj\x86\Debug\yeni2.Form1.resources

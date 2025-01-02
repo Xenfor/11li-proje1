@@ -1,7 +1,0 @@
-C:\Users\Lab8Ogr\Desktop\prohhhhj\sayii\sayii\bin\Debug\sayii.exe
-C:\Users\Lab8Ogr\Desktop\prohhhhj\sayii\sayii\bin\Debug\sayii.pdb
-C:\Users\Lab8Ogr\Desktop\prohhhhj\sayii\sayii\obj\x86\Debug\sayii.Form1.resources
-C:\Users\Lab8Ogr\Desktop\prohhhhj\sayii\sayii\obj\x86\Debug\sayii.Properties.Resources.resources
-C:\Users\Lab8Ogr\Desktop\prohhhhj\sayii\sayii\obj\x86\Debug\sayii.csproj.GenerateResource.Cache
-C:\Users\Lab8Ogr\Desktop\prohhhhj\sayii\sayii\obj\x86\Debug\sayii.exe
-C:\Users\Lab8Ogr\Desktop\prohhhhj\sayii\sayii\obj\x86\Debug\sayii.pdb
