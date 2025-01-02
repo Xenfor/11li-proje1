@@ -1,0 +1,8 @@
+C:\Users\Lab8Ogr\Desktop\forornegi\forornegi\bin\Debug\forornegi.exe
+C:\Users\Lab8Ogr\Desktop\forornegi\forornegi\bin\Debug\forornegi.pdb
+C:\Users\Lab8Ogr\Desktop\forornegi\forornegi\obj\x86\Debug\forornegi.Form1.resources
+C:\Users\Lab8Ogr\Desktop\forornegi\forornegi\obj\x86\Debug\forornegi.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\forornegi\forornegi\obj\x86\Debug\forornegi.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\forornegi\forornegi\obj\x86\Debug\forornegi.exe
+C:\Users\Lab8Ogr\Desktop\forornegi\forornegi\obj\x86\Debug\forornegi.pdb
+C:\Users\Lab8Ogr\Desktop\forornegi\forornegi\obj\x86\Debug\forornegi.csprojResolveAssemblyReference.cache

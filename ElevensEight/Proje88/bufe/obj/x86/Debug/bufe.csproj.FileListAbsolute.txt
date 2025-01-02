@@ -1,0 +1,8 @@
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\bufe\bufe\bin\Debug\bufe.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\bufe\bufe\bin\Debug\bufe.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\bufe\bufe\obj\x86\Debug\bufe.Form1.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\bufe\bufe\obj\x86\Debug\bufe.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\bufe\bufe\obj\x86\Debug\bufe.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\bufe\bufe\obj\x86\Debug\bufe.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\bufe\bufe\obj\x86\Debug\bufe.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\bufe\bufe\obj\x86\Debug\bufe.csprojResolveAssemblyReference.cache

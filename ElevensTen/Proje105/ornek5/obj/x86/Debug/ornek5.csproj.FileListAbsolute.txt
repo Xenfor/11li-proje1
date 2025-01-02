@@ -1,0 +1,17 @@
+C:\Users\Lab8Ogr\Desktop\ornek5\ornek5\bin\Debug\ornek5.exe
+C:\Users\Lab8Ogr\Desktop\ornek5\ornek5\bin\Debug\ornek5.pdb
+C:\Users\Lab8Ogr\Desktop\ornek5\ornek5\obj\x86\Debug\ornek5.Form1.resources
+C:\Users\Lab8Ogr\Desktop\ornek5\ornek5\obj\x86\Debug\ornek5.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\ornek5\ornek5\obj\x86\Debug\ornek5.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\ornek5\ornek5\obj\x86\Debug\ornek5.exe
+C:\Users\Lab8Ogr\Desktop\ornek5\ornek5\obj\x86\Debug\ornek5.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806 11-A\ornek5\obj\x86\Debug\ornek5.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806 11-A\ornek5\obj\x86\Debug\ornek5.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806 11-A\ornek5\bin\Debug\ornek5.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806 11-A\ornek5\bin\Debug\ornek5.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806 11-A\ornek5\obj\x86\Debug\ornek5.Form1.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806 11-A\ornek5\obj\x86\Debug\ornek5.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806 11-A\ornek5\obj\x86\Debug\ornek5.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806 11-A\ornek5\obj\x86\Debug\ornek5.csprojResolveAssemblyReference.cache
+C:\Users\Lab8Ogr\Desktop\orneks\Yusuf Parlak 1806 11-A\ornek5\obj\x86\Debug\ornek5.exe
+C:\Users\Lab8Ogr\Desktop\orneks\Yusuf Parlak 1806 11-A\ornek5\obj\x86\Debug\ornek5.pdb

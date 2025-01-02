@@ -1,0 +1,7 @@
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\yazi\yazi\bin\Debug\yazi.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\yazi\yazi\bin\Debug\yazi.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\yazi\yazi\obj\x86\Debug\yazi.Form1.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\yazi\yazi\obj\x86\Debug\yazi.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\yazi\yazi\obj\x86\Debug\yazi.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\yazi\yazi\obj\x86\Debug\yazi.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\yazi\yazi\obj\x86\Debug\yazi.pdb

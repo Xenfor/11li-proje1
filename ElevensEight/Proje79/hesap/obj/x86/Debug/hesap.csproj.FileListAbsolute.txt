@@ -1,0 +1,8 @@
+C:\Users\Lab8Ogr\Desktop\hesap\hesap\bin\Debug\hesap.exe
+C:\Users\Lab8Ogr\Desktop\hesap\hesap\bin\Debug\hesap.pdb
+C:\Users\Lab8Ogr\Desktop\hesap\hesap\obj\x86\Debug\hesap.Form1.resources
+C:\Users\Lab8Ogr\Desktop\hesap\hesap\obj\x86\Debug\hesap.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\hesap\hesap\obj\x86\Debug\hesap.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\hesap\hesap\obj\x86\Debug\hesap.exe
+C:\Users\Lab8Ogr\Desktop\hesap\hesap\obj\x86\Debug\hesap.pdb
+C:\Users\Lab8Ogr\Desktop\hesap\hesap\obj\x86\Debug\hesap.csprojResolveAssemblyReference.cache

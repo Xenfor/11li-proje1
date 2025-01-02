@@ -1,0 +1,16 @@
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\yp_yu\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.goruntele.resources

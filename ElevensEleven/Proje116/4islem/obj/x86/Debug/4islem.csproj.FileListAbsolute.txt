@@ -1,0 +1,10 @@
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\4islem\4islem\bin\Debug\4islem.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\4islem\4islem\bin\Debug\4islem.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\4islem\4islem\obj\x86\Debug\_4islem.Form1.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\4islem\4islem\obj\x86\Debug\_4islem.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\4islem\4islem\obj\x86\Debug\4islem.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\4islem\4islem\obj\x86\Debug\4islem.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\4islem\4islem\obj\x86\Debug\4islem.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\_4islem\_4islem\obj\x86\Debug\4islem.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\_4islem\_4islem\obj\x86\Debug\4islem.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 1806\4islem\4islem\obj\x86\Debug\4islem.csprojResolveAssemblyReference.cache

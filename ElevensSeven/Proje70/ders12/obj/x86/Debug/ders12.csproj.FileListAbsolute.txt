@@ -1,0 +1,7 @@
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders12\ders12\bin\Debug\ders12.exe
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders12\ders12\bin\Debug\ders12.pdb
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders12\ders12\obj\x86\Debug\ders12.Form1.resources
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders12\ders12\obj\x86\Debug\ders12.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders12\ders12\obj\x86\Debug\ders12.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders12\ders12\obj\x86\Debug\ders12.exe
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders12\ders12\obj\x86\Debug\ders12.pdb

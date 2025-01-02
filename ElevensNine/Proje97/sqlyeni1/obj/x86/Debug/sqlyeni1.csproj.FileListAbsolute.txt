@@ -1,0 +1,9 @@
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\sqlyeni1\sqlyeni1\obj\x86\Debug\sqlyeni1.Form1.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\sqlyeni1\sqlyeni1\obj\x86\Debug\sqlyeni1.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\sqlyeni1\sqlyeni1\obj\x86\Debug\sqlyeni1.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\sqlyeni1\sqlyeni1\bin\Debug\sqlyeni1.exe.config
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\sqlyeni1\sqlyeni1\bin\Debug\sqlyeni1.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\sqlyeni1\sqlyeni1\bin\Debug\sqlyeni1.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\sqlyeni1\sqlyeni1\obj\x86\Debug\sqlyeni1.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\sqlyeni1\sqlyeni1\obj\x86\Debug\sqlyeni1.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\sqlyeni1\sqlyeni1\obj\x86\Debug\sqlyeni1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Lab8Ogr\Desktop\soru1\soru1\bin\Debug\soru1.exe
+C:\Users\Lab8Ogr\Desktop\soru1\soru1\bin\Debug\soru1.pdb
+C:\Users\Lab8Ogr\Desktop\soru1\soru1\obj\x86\Debug\soru1.Form1.resources
+C:\Users\Lab8Ogr\Desktop\soru1\soru1\obj\x86\Debug\soru1.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\soru1\soru1\obj\x86\Debug\soru1.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\soru1\soru1\obj\x86\Debug\soru1.exe
+C:\Users\Lab8Ogr\Desktop\soru1\soru1\obj\x86\Debug\soru1.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru1\soru1\obj\x86\Debug\soru1.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru1\soru1\obj\x86\Debug\soru1.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru1\soru1\bin\Debug\soru1.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru1\soru1\bin\Debug\soru1.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru1\soru1\obj\x86\Debug\soru1.csprojResolveAssemblyReference.cache
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru1\soru1\obj\x86\Debug\soru1.Form1.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru1\soru1\obj\x86\Debug\soru1.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru1\soru1\obj\x86\Debug\soru1.csproj.GenerateResource.Cache

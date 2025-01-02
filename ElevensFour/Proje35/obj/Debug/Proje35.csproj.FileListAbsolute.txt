@@ -1,0 +1,10 @@
+C:\Users\yp_yu\Desktop\AllProjekts\Proje35\bin\Debug\Proje35.exe.config
+C:\Users\yp_yu\Desktop\AllProjekts\Proje35\bin\Debug\Proje35.exe
+C:\Users\yp_yu\Desktop\AllProjekts\Proje35\bin\Debug\Proje35.pdb
+C:\Users\yp_yu\Desktop\AllProjekts\Proje35\obj\Debug\Proje35.csproj.AssemblyReference.cache
+C:\Users\yp_yu\Desktop\AllProjekts\Proje35\obj\Debug\Proje35.Form1.resources
+C:\Users\yp_yu\Desktop\AllProjekts\Proje35\obj\Debug\Proje35.Properties.Resources.resources
+C:\Users\yp_yu\Desktop\AllProjekts\Proje35\obj\Debug\Proje35.csproj.GenerateResource.cache
+C:\Users\yp_yu\Desktop\AllProjekts\Proje35\obj\Debug\Proje35.csproj.CoreCompileInputs.cache
+C:\Users\yp_yu\Desktop\AllProjekts\Proje35\obj\Debug\Proje35.exe
+C:\Users\yp_yu\Desktop\AllProjekts\Proje35\obj\Debug\Proje35.pdb

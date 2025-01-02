@@ -1,0 +1,10 @@
+C:\Users\yp_yu\Desktop\Proje\perfprocess\bin\Debug\perfprocess.exe.config
+C:\Users\yp_yu\Desktop\Proje\perfprocess\bin\Debug\perfprocess.exe
+C:\Users\yp_yu\Desktop\Proje\perfprocess\bin\Debug\perfprocess.pdb
+C:\Users\yp_yu\Desktop\Proje\perfprocess\obj\Debug\perfprocess.csproj.AssemblyReference.cache
+C:\Users\yp_yu\Desktop\Proje\perfprocess\obj\Debug\perfprocess.Form1.resources
+C:\Users\yp_yu\Desktop\Proje\perfprocess\obj\Debug\perfprocess.Properties.Resources.resources
+C:\Users\yp_yu\Desktop\Proje\perfprocess\obj\Debug\perfprocess.csproj.GenerateResource.cache
+C:\Users\yp_yu\Desktop\Proje\perfprocess\obj\Debug\perfprocess.csproj.CoreCompileInputs.cache
+C:\Users\yp_yu\Desktop\Proje\perfprocess\obj\Debug\perfprocess.exe
+C:\Users\yp_yu\Desktop\Proje\perfprocess\obj\Debug\perfprocess.pdb

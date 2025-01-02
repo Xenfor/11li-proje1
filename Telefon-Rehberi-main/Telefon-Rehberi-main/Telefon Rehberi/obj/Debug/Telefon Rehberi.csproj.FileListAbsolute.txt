@@ -1,0 +1,25 @@
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.exe
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.About.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Edit_Person.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Qr_Code.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Settings.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\bin\Debug\en\Telefon Rehberi.resources.dll
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\en\Telefon Rehberi.resources.dll
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Person_List.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.MainParent.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.New_Person.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.New_Person.en.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Print.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Login.resources
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\bin\Debug\QRCoder.dll
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.CopyComplete
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\bin\Debug\PagedList.dll
+C:\Users\hasan\OneDrive\Masaüstü\Telefon Rehberi\Telefon Rehberi\bin\Debug\PagedList.xml

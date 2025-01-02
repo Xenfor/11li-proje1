@@ -1,0 +1,7 @@
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni6\yeni6\bin\Debug\yeni6.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni6\yeni6\bin\Debug\yeni6.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni6\yeni6\obj\x86\Debug\yeni6.Form1.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni6\yeni6\obj\x86\Debug\yeni6.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni6\yeni6\obj\x86\Debug\yeni6.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni6\yeni6\obj\x86\Debug\yeni6.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 14.12.21\yeni6\yeni6\obj\x86\Debug\yeni6.pdb

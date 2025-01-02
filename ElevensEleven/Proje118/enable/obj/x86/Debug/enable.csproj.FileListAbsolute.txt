@@ -1,0 +1,7 @@
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\enable\enable\bin\Debug\enable.exe
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\enable\enable\bin\Debug\enable.pdb
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\enable\enable\obj\x86\Debug\enable.Form1.resources
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\enable\enable\obj\x86\Debug\enable.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\enable\enable\obj\x86\Debug\enable.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\enable\enable\obj\x86\Debug\enable.exe
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\enable\enable\obj\x86\Debug\enable.pdb

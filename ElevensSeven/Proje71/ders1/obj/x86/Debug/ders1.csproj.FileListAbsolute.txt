@@ -1,0 +1,8 @@
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders1\ders1\bin\Debug\ders1.exe
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders1\ders1\bin\Debug\ders1.pdb
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders1\ders1\obj\x86\Debug\ders1.Form1.resources
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders1\ders1\obj\x86\Debug\ders1.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders1\ders1\obj\x86\Debug\ders1.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders1\ders1\obj\x86\Debug\ders1.exe
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders1\ders1\obj\x86\Debug\ders1.pdb
+C:\Users\Lab8Ogr\Desktop\prohhhhj\ders1\ders1\obj\x86\Debug\ders1.csprojResolveAssemblyReference.cache

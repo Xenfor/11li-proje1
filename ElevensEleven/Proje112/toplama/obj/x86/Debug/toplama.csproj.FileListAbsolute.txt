@@ -1,0 +1,7 @@
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\toplama\toplama\bin\Debug\toplama.exe
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\toplama\toplama\bin\Debug\toplama.pdb
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\toplama\toplama\obj\x86\Debug\toplama.Form1.resources
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\toplama\toplama\obj\x86\Debug\toplama.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\toplama\toplama\obj\x86\Debug\toplama.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\toplama\toplama\obj\x86\Debug\toplama.exe
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\toplama\toplama\obj\x86\Debug\toplama.pdb

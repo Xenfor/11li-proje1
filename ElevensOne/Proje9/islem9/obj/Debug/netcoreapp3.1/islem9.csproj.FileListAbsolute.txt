@@ -1,0 +1,16 @@
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\bin\Debug\netcoreapp3.1\islem9.exe
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\bin\Debug\netcoreapp3.1\islem9.deps.json
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\bin\Debug\netcoreapp3.1\islem9.runtimeconfig.json
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\bin\Debug\netcoreapp3.1\islem9.runtimeconfig.dev.json
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\bin\Debug\netcoreapp3.1\islem9.dll
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\bin\Debug\netcoreapp3.1\islem9.pdb
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\obj\Debug\netcoreapp3.1\islem9.csproj.AssemblyReference.cache
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\obj\Debug\netcoreapp3.1\islem9.Form1.resources
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\obj\Debug\netcoreapp3.1\islem9.csproj.GenerateResource.cache
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\obj\Debug\netcoreapp3.1\islem9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\obj\Debug\netcoreapp3.1\islem9.AssemblyInfoInputs.cache
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\obj\Debug\netcoreapp3.1\islem9.AssemblyInfo.cs
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\obj\Debug\netcoreapp3.1\islem9.csproj.CoreCompileInputs.cache
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\obj\Debug\netcoreapp3.1\islem9.dll
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\obj\Debug\netcoreapp3.1\islem9.pdb
+C:\Users\yp_yu\Desktop\DProjeler\islem9\islem9\obj\Debug\netcoreapp3.1\islem9.genruntimeconfig.cache

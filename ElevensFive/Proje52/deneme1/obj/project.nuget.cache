@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5B9mftJGWpX76xcecHIkI1nOUV3JKwpBccPShH7idj49Z0OPrWIWdC5R3z8yPQVo5ue07jnycdDcgLXIYnFoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yp_yu\\OneDrive\\Masaüstü\\source\\repos\\deneme1\\deneme1\\deneme1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yp_yu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\yp_yu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\yp_yu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\yp_yu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

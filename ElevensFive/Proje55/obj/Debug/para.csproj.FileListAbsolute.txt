@@ -1,0 +1,10 @@
+C:\Users\yp_yu\source\repos\para\bin\Debug\para.exe.config
+C:\Users\yp_yu\source\repos\para\bin\Debug\para.exe
+C:\Users\yp_yu\source\repos\para\bin\Debug\para.pdb
+C:\Users\yp_yu\source\repos\para\obj\Debug\para.csproj.AssemblyReference.cache
+C:\Users\yp_yu\source\repos\para\obj\Debug\para.Form1.resources
+C:\Users\yp_yu\source\repos\para\obj\Debug\para.Properties.Resources.resources
+C:\Users\yp_yu\source\repos\para\obj\Debug\para.csproj.GenerateResource.cache
+C:\Users\yp_yu\source\repos\para\obj\Debug\para.csproj.CoreCompileInputs.cache
+C:\Users\yp_yu\source\repos\para\obj\Debug\para.exe
+C:\Users\yp_yu\source\repos\para\obj\Debug\para.pdb

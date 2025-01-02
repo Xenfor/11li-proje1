@@ -1,0 +1,8 @@
+C:\Users\Lab8Ogr\Desktop\soru4\soru4\bin\Debug\soru4.exe
+C:\Users\Lab8Ogr\Desktop\soru4\soru4\bin\Debug\soru4.pdb
+C:\Users\Lab8Ogr\Desktop\soru4\soru4\obj\x86\Debug\soru4.Form1.resources
+C:\Users\Lab8Ogr\Desktop\soru4\soru4\obj\x86\Debug\soru4.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\soru4\soru4\obj\x86\Debug\soru4.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\soru4\soru4\obj\x86\Debug\soru4.exe
+C:\Users\Lab8Ogr\Desktop\soru4\soru4\obj\x86\Debug\soru4.pdb
+C:\Users\Lab8Ogr\Desktop\soru4\soru4\obj\x86\Debug\soru4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Lab8Ogr\Desktop\random\random\bin\Debug\random.exe
+C:\Users\Lab8Ogr\Desktop\random\random\bin\Debug\random.pdb
+C:\Users\Lab8Ogr\Desktop\random\random\obj\x86\Debug\random.Form1.resources
+C:\Users\Lab8Ogr\Desktop\random\random\obj\x86\Debug\random.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\random\random\obj\x86\Debug\random.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\random\random\obj\x86\Debug\random.exe
+C:\Users\Lab8Ogr\Desktop\random\random\obj\x86\Debug\random.pdb

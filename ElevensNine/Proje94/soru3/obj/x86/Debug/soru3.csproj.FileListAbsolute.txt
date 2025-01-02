@@ -1,0 +1,7 @@
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru3\soru3\bin\Debug\soru3.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru3\soru3\bin\Debug\soru3.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru3\soru3\obj\x86\Debug\soru3.Form1.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru3\soru3\obj\x86\Debug\soru3.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru3\soru3\obj\x86\Debug\soru3.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru3\soru3\obj\x86\Debug\soru3.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak 11-A 23-11\soru3\soru3\obj\x86\Debug\soru3.pdb

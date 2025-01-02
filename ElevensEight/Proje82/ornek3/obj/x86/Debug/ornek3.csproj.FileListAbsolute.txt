@@ -1,0 +1,7 @@
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak   1806 30.11.2021\ornek3\ornek3\bin\Debug\ornek3.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak   1806 30.11.2021\ornek3\ornek3\bin\Debug\ornek3.pdb
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak   1806 30.11.2021\ornek3\ornek3\obj\x86\Debug\ornek3.Form1.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak   1806 30.11.2021\ornek3\ornek3\obj\x86\Debug\ornek3.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak   1806 30.11.2021\ornek3\ornek3\obj\x86\Debug\ornek3.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak   1806 30.11.2021\ornek3\ornek3\obj\x86\Debug\ornek3.exe
+C:\Users\Lab8Ogr\Desktop\Yusuf Parlak   1806 30.11.2021\ornek3\ornek3\obj\x86\Debug\ornek3.pdb
