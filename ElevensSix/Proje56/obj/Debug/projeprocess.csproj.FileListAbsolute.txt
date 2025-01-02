@@ -1,0 +1,10 @@
+C:\Users\yp_yu\source\repos\projeprocess\bin\Debug\projeprocess.exe.config
+C:\Users\yp_yu\source\repos\projeprocess\bin\Debug\projeprocess.exe
+C:\Users\yp_yu\source\repos\projeprocess\bin\Debug\projeprocess.pdb
+C:\Users\yp_yu\source\repos\projeprocess\obj\Debug\projeprocess.csproj.AssemblyReference.cache
+C:\Users\yp_yu\source\repos\projeprocess\obj\Debug\projeprocess.Form1.resources
+C:\Users\yp_yu\source\repos\projeprocess\obj\Debug\projeprocess.Properties.Resources.resources
+C:\Users\yp_yu\source\repos\projeprocess\obj\Debug\projeprocess.csproj.GenerateResource.cache
+C:\Users\yp_yu\source\repos\projeprocess\obj\Debug\projeprocess.csproj.CoreCompileInputs.cache
+C:\Users\yp_yu\source\repos\projeprocess\obj\Debug\projeprocess.exe
+C:\Users\yp_yu\source\repos\projeprocess\obj\Debug\projeprocess.pdb

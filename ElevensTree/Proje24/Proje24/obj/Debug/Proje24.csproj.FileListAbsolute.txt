@@ -1,0 +1,10 @@
+C:\Users\yp_yu\source\repos\Proje24\Proje24\bin\Debug\Proje24.exe.config
+C:\Users\yp_yu\source\repos\Proje24\Proje24\bin\Debug\Proje24.exe
+C:\Users\yp_yu\source\repos\Proje24\Proje24\bin\Debug\Proje24.pdb
+C:\Users\yp_yu\source\repos\Proje24\Proje24\obj\Debug\Proje24.csproj.AssemblyReference.cache
+C:\Users\yp_yu\source\repos\Proje24\Proje24\obj\Debug\Proje24.Form1.resources
+C:\Users\yp_yu\source\repos\Proje24\Proje24\obj\Debug\Proje24.Properties.Resources.resources
+C:\Users\yp_yu\source\repos\Proje24\Proje24\obj\Debug\Proje24.csproj.GenerateResource.cache
+C:\Users\yp_yu\source\repos\Proje24\Proje24\obj\Debug\Proje24.csproj.CoreCompileInputs.cache
+C:\Users\yp_yu\source\repos\Proje24\Proje24\obj\Debug\Proje24.exe
+C:\Users\yp_yu\source\repos\Proje24\Proje24\obj\Debug\Proje24.pdb

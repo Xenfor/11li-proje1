@@ -1,0 +1,7 @@
+C:\Users\Lab8Ogr\Desktop\evli\evli\bin\Debug\evli.exe
+C:\Users\Lab8Ogr\Desktop\evli\evli\bin\Debug\evli.pdb
+C:\Users\Lab8Ogr\Desktop\evli\evli\obj\x86\Debug\evli.Form1.resources
+C:\Users\Lab8Ogr\Desktop\evli\evli\obj\x86\Debug\evli.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\evli\evli\obj\x86\Debug\evli.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\evli\evli\obj\x86\Debug\evli.exe
+C:\Users\Lab8Ogr\Desktop\evli\evli\obj\x86\Debug\evli.pdb

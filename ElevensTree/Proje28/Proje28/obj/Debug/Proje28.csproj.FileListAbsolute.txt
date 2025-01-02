@@ -1,0 +1,10 @@
+C:\Users\yp_yu\Desktop\AllProjes\Proje28\Proje28\bin\Debug\Proje28.exe.config
+C:\Users\yp_yu\Desktop\AllProjes\Proje28\Proje28\bin\Debug\Proje28.exe
+C:\Users\yp_yu\Desktop\AllProjes\Proje28\Proje28\bin\Debug\Proje28.pdb
+C:\Users\yp_yu\Desktop\AllProjes\Proje28\Proje28\obj\Debug\Proje28.csproj.AssemblyReference.cache
+C:\Users\yp_yu\Desktop\AllProjes\Proje28\Proje28\obj\Debug\Proje28.Form1.resources
+C:\Users\yp_yu\Desktop\AllProjes\Proje28\Proje28\obj\Debug\Proje28.Properties.Resources.resources
+C:\Users\yp_yu\Desktop\AllProjes\Proje28\Proje28\obj\Debug\Proje28.csproj.GenerateResource.cache
+C:\Users\yp_yu\Desktop\AllProjes\Proje28\Proje28\obj\Debug\Proje28.csproj.CoreCompileInputs.cache
+C:\Users\yp_yu\Desktop\AllProjes\Proje28\Proje28\obj\Debug\Proje28.exe
+C:\Users\yp_yu\Desktop\AllProjes\Proje28\Proje28\obj\Debug\Proje28.pdb

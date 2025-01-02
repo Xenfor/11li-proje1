@@ -1,0 +1,7 @@
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\RENK DEĞİŞTİRME\RENK DEĞİŞTİRME\bin\Debug\RENK DEĞİŞTİRME.exe
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\RENK DEĞİŞTİRME\RENK DEĞİŞTİRME\bin\Debug\RENK DEĞİŞTİRME.pdb
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\RENK DEĞİŞTİRME\RENK DEĞİŞTİRME\obj\x86\Debug\RENK_DEĞİŞTİRME.Form1.resources
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\RENK DEĞİŞTİRME\RENK DEĞİŞTİRME\obj\x86\Debug\RENK_DEĞİŞTİRME.Properties.Resources.resources
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\RENK DEĞİŞTİRME\RENK DEĞİŞTİRME\obj\x86\Debug\RENK DEĞİŞTİRME.csproj.GenerateResource.Cache
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\RENK DEĞİŞTİRME\RENK DEĞİŞTİRME\obj\x86\Debug\RENK DEĞİŞTİRME.exe
+C:\Users\Lab8Ogr\Desktop\1806 YUSUF PARLAK\RENK DEĞİŞTİRME\RENK DEĞİŞTİRME\obj\x86\Debug\RENK DEĞİŞTİRME.pdb

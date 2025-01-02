@@ -1,0 +1,10 @@
+C:\Users\yp_yu\source\repos\XeniYazdirici\XeniYazdirici\bin\Debug\XeniYazdirici.exe.config
+C:\Users\yp_yu\source\repos\XeniYazdirici\XeniYazdirici\bin\Debug\XeniYazdirici.exe
+C:\Users\yp_yu\source\repos\XeniYazdirici\XeniYazdirici\bin\Debug\XeniYazdirici.pdb
+C:\Users\yp_yu\source\repos\XeniYazdirici\XeniYazdirici\obj\Debug\XeniYazdirici.csproj.AssemblyReference.cache
+C:\Users\yp_yu\source\repos\XeniYazdirici\XeniYazdirici\obj\Debug\XeniYazdirici.Form1.resources
+C:\Users\yp_yu\source\repos\XeniYazdirici\XeniYazdirici\obj\Debug\XeniYazdirici.Properties.Resources.resources
+C:\Users\yp_yu\source\repos\XeniYazdirici\XeniYazdirici\obj\Debug\XeniYazdirici.csproj.GenerateResource.cache
+C:\Users\yp_yu\source\repos\XeniYazdirici\XeniYazdirici\obj\Debug\XeniYazdirici.csproj.CoreCompileInputs.cache
+C:\Users\yp_yu\source\repos\XeniYazdirici\XeniYazdirici\obj\Debug\XeniYazdirici.exe
+C:\Users\yp_yu\source\repos\XeniYazdirici\XeniYazdirici\obj\Debug\XeniYazdirici.pdb
